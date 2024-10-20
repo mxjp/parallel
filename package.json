@@ -1,0 +1,8 @@
+{
+	"name": "@mxjp/parallel",
+	"version": "1.0.0",
+	"type": "module",
+	"bin": {
+		"mx-parallel": "./main.js"
+	}
+}
